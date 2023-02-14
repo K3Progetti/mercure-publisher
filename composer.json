@@ -1,5 +1,5 @@
 {
-    "name": "K3Progetti/mercure-publisher",
+    "name": "k3progetti/mercure-publisher",
     "type": "library",
     "description": "Mercure Publisher trait",
     "keywords": [
@@ -11,12 +11,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "K3\\": "src/"
+            "Esc\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "K3\\Tests\\": "tests"
+            "Esc\\Tests\\": "tests"
         }
     },
     "require": {
